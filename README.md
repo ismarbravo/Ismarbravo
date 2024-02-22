@@ -1,5 +1,12 @@
 <div aling="center">
-### Hola, soy Ismar👋
+<h1 aling="center"> Hola, soy Ismar👋>  
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://aristi.dev">Aristidevs</a></h1>
+</div>
+<img src="https://i.imgur.com/weNbhGZ.png">
+  
+  
+  ### Hola, soy Ismar👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
