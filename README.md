@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">Hola, soy Ismar👋
-</div>
-<img src="C:\Users\Ander\Documents\Banner Github.png" alt="Descripción de la imagen">
+    <h1 align="center">Hola, soy Ismar👋
+    </div>
+    <img src="Banner Github.png" alt="Descripción de la imagen">
 
 
   
