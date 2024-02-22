@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Ismar👋
 </div>
-<img src="[https://drive.google.com/file/d/1-dE87ckcPmMYWkLzlmOUg14a-lwh1uwo/view?usp=drive_link](https://drive.google.com/file/d/1-dE87ckcPmMYWkLzlmOUg14a-lwh1uwo/view?usp=drive_link)" alt="Descripción de la imagen">
+<img src="C:\Users\Ander\Downloads\Banner Github.png" alt="Descripción de la imagen">
 
   
   
