@@ -2,7 +2,7 @@
     <h1 align="center">Hola, soy Ismar👋
     </div>
     <img src="C:\Users\Ander\Documents\Bannner GITHUB ISMAR\Banner Github.png" alt="Descripción de la imagen">
-
+[![Banner-Github.png](https://i.postimg.cc/prKKTxnN/Banner-Github.png)](https://postimg.cc/kRX210cw) 
 
   
   
