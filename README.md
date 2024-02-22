@@ -1,7 +1,5 @@
-<div aling="center">
-<h1 aling="center"> Hola, soy Ismar👋>  
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Aristidevs</a></h1>
+<h1 align="center">Hola, soy Ismar👋<a href="https://aristi.dev">Aristidevs</a></h1>
 </div>
 <img src="https://i.imgur.com/weNbhGZ.png">
   
