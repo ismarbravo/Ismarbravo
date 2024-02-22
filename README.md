@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hola, soy Ismar👋
 </div>
-<img src="https://drive.google.com/file/d/1-dE87ckcPmMYWkLzlmOUg14a-lwh1uwo/view?usp=drive_link">
+<img src="https://drive.google.com/file/d/1-dE87ckcPmMYWkLzlmOUg14a-lwh1uwo/view?usp=drive_link" alt="Descripción de la imagen">
+
   
   
   ### Hola, soy Ismar👋
